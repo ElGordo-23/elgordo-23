@@ -1,10 +1,8 @@
-<h2> Greetings, I'm Felix</h2>
+<h2> Greetings, I'm Felix!</h2>
 
-<p>Welcome to my Github page! </p> 
-<p>I'm a 
-</p>
+<p>Welcome to my Github page! </p>
 
-- I’ve just became a **Web Developer** by learning **JavaScript, HTML5/CSS, React & Next.js** and other relevant technologies
+- I’ve just became a **Web Developer** by learning **JavaScript, HTML5/CSS, React & Next.js** and other relevant technologies in the UpLeveled Web Development Bootcamp.
 - Contact me on <a href="https://www.linkedin.com/in/felix-lang-9a3a5a139/">LinkedIn</a>
 
 <h3>Technologies I'm familiar with:</h3>
